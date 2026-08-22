@@ -223,4 +223,4 @@ A curated list of awesome deep learning based papers on text detection and recog
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-22._
