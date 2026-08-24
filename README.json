@@ -678,7 +678,7 @@
             "last_commit": "2026-08-21T16:27:30Z",
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77648
+            "stars": 77649
           }
         },
         {
@@ -693,7 +693,7 @@
             "last_commit": "2026-08-21T16:27:30Z",
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77648
+            "stars": 77649
           }
         },
         {
@@ -806,7 +806,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:00:54.786Z",
+    "last_updated": "2026-08-24T23:40:02.641Z",
     "original_repository": "hwalsuklee/awesome-deep-text-detection-recognition",
     "original_repository_id": 112569794,
     "original_repository_sha": "0958b3875043676c61bdf64df95ea81a43ad3c92",
