@@ -111,7 +111,7 @@
         {
           "node_type": "item",
           "title": "'17-CVPR",
-          "description": "17/04/11 EAST: An Efficient and Accurate Scene Text Detector 0.8072 (L)0.8038",
+          "description": "17/04/11 EAST: An Efficient and Accurate Scene Text Detector  0.8072 (L)0.8038",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -261,7 +261,7 @@
         {
           "node_type": "item",
           "title": "'18-arXiv",
-          "description": "18/06/07 Shape Robust Text Detection with Progressive Scale Expansion Network 0.8721",
+          "description": "18/06/07 Shape Robust Text Detection with Progressive Scale Expansion Network  0.8721",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -276,7 +276,7 @@
         {
           "node_type": "item",
           "title": "'18-ECCV",
-          "description": "18/07/04 TextSnake: A Flexible Representation for Detecting Text of Arbitrary Shapes 0.826",
+          "description": "18/07/04 TextSnake: A Flexible Representation for Detecting Text of Arbitrary Shapes  0.826",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -291,7 +291,7 @@
         {
           "node_type": "item",
           "title": "'19-TIP",
-          "description": "18/12/04 TextField: Learning A Deep Direction Field for Irregular Scene Text Detection 0.824",
+          "description": "18/12/04 TextField: Learning A Deep Direction Field for Irregular Scene Text Detection  0.824",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -306,7 +306,7 @@
         {
           "node_type": "item",
           "title": "'19-CVPR",
-          "description": "19/03/28 Shape Robust Text Detection with Progressive Scale Expansion Network 0.857",
+          "description": "19/03/28 Shape Robust Text Detection with Progressive Scale Expansion Network  0.857",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -342,7 +342,7 @@
         {
           "node_type": "item",
           "title": "'15-ICLR",
-          "description": "14/12/18 Deep structured output learning for unconstrained text recognition 0.717 0.896 0.818",
+          "description": "14/12/18 Deep structured output learning for unconstrained text recognition 0.717  0.896 0.818",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -357,7 +357,7 @@
         {
           "node_type": "item",
           "title": "'16-IJCV",
-          "description": "15/05/07 Reading text in the wild with convolutional neural networks 0.807 0.933 0.908",
+          "description": "15/05/07 Reading text in the wild with convolutional neural networks 0.807  0.933 0.908",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -387,7 +387,7 @@
         {
           "node_type": "item",
           "title": "'17-arXiv",
-          "description": "17/07/27 STN-OCR: A single Neural Network for Text Detection and Text Recognition 0.798 0.86 0.903",
+          "description": "17/07/27 STN-OCR: A single Neural Network for Text Detection and Text Recognition 0.798 0.86  0.903",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -447,7 +447,7 @@
         {
           "node_type": "item",
           "title": "'19-AAAI",
-          "description": "18/11/02 Show, Attend and Read: A Simple and Strong Baseline for Irregular Text Recognition 0.845 0.915 0.91",
+          "description": "18/11/02 Show, Attend and Read: A Simple and Strong Baseline for Irregular Text Recognition 0.845 0.915  0.91",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -477,7 +477,7 @@
         {
           "node_type": "item",
           "title": "'19-ICCV",
-          "description": "19/04/03 What is wrong with scene text recognition model comparisons? dataset and model analysis 0.875 0.949 0.936",
+          "description": "19/04/03 What is wrong with scene text recognition model comparisons? dataset and model analysis 0.875  0.949 0.936",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -543,7 +543,7 @@
         {
           "node_type": "item",
           "title": "'16-arXiv",
-          "description": "16/04/10 TextProposals: a Text-specific Selective Search Algorithm for Word Spotting in the Wild 0.6843 0.4718 (L)0.533",
+          "description": "16/04/10 TextProposals: a Text-specific Selective Search Algorithm for Word Spotting in the Wild  0.6843 0.4718 (L)0.533",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -558,7 +558,7 @@
         {
           "node_type": "item",
           "title": "'17-AAAI",
-          "description": "16/11/21 TextBoxes: A fast text detector with a single deep neural network 0.84",
+          "description": "16/11/21 TextBoxes: A fast text detector with a single deep neural network  0.84",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -573,7 +573,7 @@
         {
           "node_type": "item",
           "title": "'17-ICCV",
-          "description": "17/10/22 Deep TextSpotter An End-to-End Trainable Scene Text Localization and Recognition Framework 0.77 0.47",
+          "description": "17/10/22 Deep TextSpotter An End-to-End Trainable Scene Text Localization and Recognition Framework  0.77 0.47",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -588,7 +588,7 @@
         {
           "node_type": "item",
           "title": "'18-CVPR",
-          "description": "18/01/05 FOTS: Fast Oriented Text Spotting with a Unified Network 0.8477 0.6533",
+          "description": "18/01/05 FOTS: Fast Oriented Text Spotting with a Unified Network  0.8477 0.6533",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -603,7 +603,7 @@
         {
           "node_type": "item",
           "title": "'18-TIP",
-          "description": "18/01/09 TextBoxes++: A Single-Shot Oriented Scene Text Detector 0.8465 0.519",
+          "description": "18/01/09 TextBoxes++: A Single-Shot Oriented Scene Text Detector  0.8465 0.519",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -618,7 +618,7 @@
         {
           "node_type": "item",
           "title": "'18-CVPR",
-          "description": "18/03/09 An end-to-end TextSpotter with Explicit Alignment and Attention 0.86 0.63",
+          "description": "18/03/09 An end-to-end TextSpotter with Explicit Alignment and Attention  0.86 0.63",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -633,7 +633,7 @@
         {
           "node_type": "item",
           "title": "'18-TPAMI",
-          "description": "18/06/25 ASTER: An Attentional Scene Text Recognizer with Flexible Rectification 0.64",
+          "description": "18/06/25 ASTER: An Attentional Scene Text Recognizer with Flexible Rectification   0.64",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -648,7 +648,7 @@
         {
           "node_type": "item",
           "title": "'19-ICCV",
-          "description": "19/10/17 Convolutional Character Networks 0.7108",
+          "description": "19/10/17 Convolutional Character Networks   0.7108",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -678,7 +678,7 @@
             "last_commit": "2026-08-21T16:27:30Z",
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77649
+            "stars": 77648
           }
         },
         {
@@ -693,7 +693,7 @@
             "last_commit": "2026-08-21T16:27:30Z",
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77649
+            "stars": 77648
           }
         },
         {
@@ -806,7 +806,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T23:40:02.641Z",
+    "last_updated": "2026-08-25T05:59:00.526Z",
     "original_repository": "hwalsuklee/awesome-deep-text-detection-recognition",
     "original_repository_id": 112569794,
     "original_repository_sha": "0958b3875043676c61bdf64df95ea81a43ad3c92",
