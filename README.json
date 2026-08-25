@@ -675,10 +675,10 @@
             "archived": false,
             "id": 51117837,
             "language": "Python",
-            "last_commit": "2026-08-21T16:27:30Z",
+            "last_commit": "2026-08-25T21:25:59Z",
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77648
+            "stars": 77650
           }
         },
         {
@@ -690,10 +690,10 @@
             "archived": false,
             "id": 51117837,
             "language": "Python",
-            "last_commit": "2026-08-21T16:27:30Z",
+            "last_commit": "2026-08-25T21:25:59Z",
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77648
+            "stars": 77650
           }
         },
         {
@@ -806,7 +806,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T05:59:00.526Z",
+    "last_updated": "2026-08-25T23:41:06.010Z",
     "original_repository": "hwalsuklee/awesome-deep-text-detection-recognition",
     "original_repository_id": 112569794,
     "original_repository_sha": "0958b3875043676c61bdf64df95ea81a43ad3c92",
