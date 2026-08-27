@@ -486,7 +486,7 @@
             "last_commit": "2024-03-04T10:24:54Z",
             "owner": "clovaai",
             "repo": "deep-text-recognition-benchmark",
-            "stars": 3943
+            "stars": 3942
           }
         },
         {
@@ -675,10 +675,10 @@
             "archived": false,
             "id": 51117837,
             "language": "Python",
-            "last_commit": "2026-08-25T21:25:59Z",
+            "last_commit": "2026-08-27T04:28:47Z",
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77650
+            "stars": 77653
           }
         },
         {
@@ -690,10 +690,10 @@
             "archived": false,
             "id": 51117837,
             "language": "Python",
-            "last_commit": "2026-08-25T21:25:59Z",
+            "last_commit": "2026-08-27T04:28:47Z",
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77650
+            "stars": 77653
           }
         },
         {
@@ -806,7 +806,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T23:41:06.010Z",
+    "last_updated": "2026-08-27T04:32:34.678Z",
     "original_repository": "hwalsuklee/awesome-deep-text-detection-recognition",
     "original_repository_id": 112569794,
     "original_repository_sha": "0958b3875043676c61bdf64df95ea81a43ad3c92",
