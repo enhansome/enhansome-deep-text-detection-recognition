@@ -201,7 +201,7 @@ A curated list of awesome deep learning based papers on text detection and recog
   * [whitelok](https://github.com/whitelok/image-text-localization-recognition) ⚠️ Archived
   * [tangzhenyu](https://github.com/tangzhenyu/Scene-Text-Understanding) ⭐ 379 | 🐛 0 | 🌐 C++ | 📅 2020-05-09
   * [wanghaisheng](https://github.com/wanghaisheng/awesome-ocr) ⭐ 1,703 | 🐛 11 | 📅 2022-06-24
-  * [ChanChiChoi](https://github.com/ChanChiChoi/awesome-ocr/blob/master/README.md) ⭐ 400 | 🐛 1 | 📅 2022-10-21
+  * [ChanChiChoi](https://github.com/ChanChiChoi/awesome-ocr/blob/master/README.md) ⭐ 401 | 🐛 1 | 📅 2022-10-21
   * [handong1587](https://github.com/handong1587/handong1587.github.io/blob/master/_posts/deep_learning/2015-10-09-ocr.md) ⭐ 3,137 | 🐛 3 | 🌐 CSS | 📅 2023-11-22
   * [hs105](https://github.com/hs105/Deep-Learning-for-OCR) ⭐ 343 | 🐛 0 | 📅 2017-11-04
 
@@ -223,4 +223,4 @@ A curated list of awesome deep learning based papers on text detection and recog
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-29._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-30._
