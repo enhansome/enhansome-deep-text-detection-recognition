@@ -277,7 +277,7 @@
             "open_issues": 80,
             "owner": "jiangxiluning",
             "repo": "FOTS.PyTorch",
-            "stars": 643,
+            "stars": 641,
             "topics": [
               "cvpr2018",
               "ocr",
@@ -302,7 +302,7 @@
             "open_issues": 56,
             "owner": "MhLiao",
             "repo": "TextBoxes_plusplus",
-            "stars": 956,
+            "stars": 955,
             "topics": [
               "ocr",
               "scene-text",
@@ -349,7 +349,7 @@
             "open_issues": 18,
             "owner": "tonghe90",
             "repo": "textspotter",
-            "stars": 321,
+            "stars": 320,
             "topics": [
               "caffe",
               "cvpr2018",
@@ -521,7 +521,7 @@
             "open_issues": 115,
             "owner": "clovaai",
             "repo": "CRAFT-pytorch",
-            "stars": 3399,
+            "stars": 3398,
             "topics": [
               "craft",
               "curved-text",
@@ -925,7 +925,7 @@
             "open_issues": 47,
             "owner": "MichalBusta",
             "repo": "DeepTextSpotter",
-            "stars": 283,
+            "stars": 282,
             "topics": []
           },
           "first_seen": "2026-08-28T06:57:01.923Z"
@@ -971,7 +971,7 @@
             "open_issues": 56,
             "owner": "MhLiao",
             "repo": "TextBoxes_plusplus",
-            "stars": 956,
+            "stars": 955,
             "topics": [
               "ocr",
               "scene-text",
@@ -997,7 +997,7 @@
             "open_issues": 18,
             "owner": "tonghe90",
             "repo": "textspotter",
-            "stars": 321,
+            "stars": 320,
             "topics": [
               "caffe",
               "cvpr2018",
@@ -1050,7 +1050,7 @@
             "open_issues": 40,
             "owner": "msight-tech",
             "repo": "research-charnet",
-            "stars": 617,
+            "stars": 616,
             "topics": []
           },
           "first_seen": "2026-08-28T06:57:01.923Z"
@@ -1077,7 +1077,7 @@
             "open_issues": 1272,
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77658,
+            "stars": 77659,
             "topics": []
           },
           "first_seen": "2026-08-28T06:57:01.923Z"
@@ -1098,7 +1098,7 @@
             "open_issues": 1272,
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77658,
+            "stars": 77659,
             "topics": []
           },
           "first_seen": "2026-08-28T06:57:01.923Z"
@@ -1279,7 +1279,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T01:19:05.333Z",
+    "last_updated": "2026-08-31T01:23:33.493Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of resources for text detection/recognition (optical character recognition ) with deep learning methods.",
