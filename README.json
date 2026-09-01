@@ -1073,11 +1073,11 @@
             "id": 51117837,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-08-28T18:30:48Z",
-            "open_issues": 1272,
+            "last_commit": "2026-08-31T23:14:28Z",
+            "open_issues": 1273,
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77659,
+            "stars": 77660,
             "topics": []
           },
           "first_seen": "2026-08-28T06:57:01.923Z"
@@ -1094,11 +1094,11 @@
             "id": 51117837,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-08-28T18:30:48Z",
-            "open_issues": 1272,
+            "last_commit": "2026-08-31T23:14:28Z",
+            "open_issues": 1273,
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77659,
+            "stars": 77660,
             "topics": []
           },
           "first_seen": "2026-08-28T06:57:01.923Z"
@@ -1269,7 +1269,7 @@
             "open_issues": 18,
             "owner": "cvlab-stonybrook",
             "repo": "DewarpNet",
-            "stars": 624,
+            "stars": 625,
             "topics": []
           },
           "first_seen": "2026-08-28T06:57:01.923Z"
@@ -1279,7 +1279,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T01:23:33.493Z",
+    "last_updated": "2026-09-01T01:50:51.889Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of resources for text detection/recognition (optical character recognition ) with deep learning methods.",
