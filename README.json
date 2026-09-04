@@ -521,7 +521,7 @@
             "open_issues": 115,
             "owner": "clovaai",
             "repo": "CRAFT-pytorch",
-            "stars": 3398,
+            "stars": 3399,
             "topics": [
               "craft",
               "curved-text",
@@ -770,7 +770,7 @@
             "open_issues": 244,
             "owner": "clovaai",
             "repo": "deep-text-recognition-benchmark",
-            "stars": 3942,
+            "stars": 3941,
             "topics": [
               "crnn",
               "deep-learning",
@@ -1073,11 +1073,11 @@
             "id": 51117837,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-02T18:30:36Z",
+            "last_commit": "2026-09-03T23:11:37Z",
             "open_issues": 1273,
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77659,
+            "stars": 77661,
             "topics": []
           },
           "first_seen": "2026-08-28T06:57:01.923Z"
@@ -1094,11 +1094,11 @@
             "id": 51117837,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-02T18:30:36Z",
+            "last_commit": "2026-09-03T23:11:37Z",
             "open_issues": 1273,
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77659,
+            "stars": 77661,
             "topics": []
           },
           "first_seen": "2026-08-28T06:57:01.923Z"
@@ -1279,7 +1279,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T01:08:29.086Z",
+    "last_updated": "2026-09-04T01:01:29.694Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of resources for text detection/recognition (optical character recognition ) with deep learning methods.",
@@ -1291,7 +1291,7 @@
       "open_issues": 10,
       "owner": "hwalsuklee",
       "repo": "awesome-deep-text-detection-recognition",
-      "stars": 2530,
+      "stars": 2529,
       "topics": [
         "awesome-list",
         "awesome-lists",
