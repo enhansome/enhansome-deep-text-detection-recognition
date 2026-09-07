@@ -1077,7 +1077,7 @@
             "open_issues": 1273,
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77659,
+            "stars": 77660,
             "topics": []
           },
           "first_seen": "2026-08-28T06:57:01.923Z"
@@ -1098,7 +1098,7 @@
             "open_issues": 1273,
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77659,
+            "stars": 77660,
             "topics": []
           },
           "first_seen": "2026-08-28T06:57:01.923Z"
@@ -1279,7 +1279,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T01:01:50.329Z",
+    "last_updated": "2026-09-07T01:03:46.830Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of resources for text detection/recognition (optical character recognition ) with deep learning methods.",
@@ -1291,7 +1291,7 @@
       "open_issues": 10,
       "owner": "hwalsuklee",
       "repo": "awesome-deep-text-detection-recognition",
-      "stars": 2528,
+      "stars": 2527,
       "topics": [
         "awesome-list",
         "awesome-lists",
