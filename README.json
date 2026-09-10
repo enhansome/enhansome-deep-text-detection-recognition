@@ -599,7 +599,7 @@
             "open_issues": 91,
             "owner": "bgshih",
             "repo": "crnn",
-            "stars": 2104,
+            "stars": 2103,
             "topics": [
               "computer-vision",
               "machine-learning",
@@ -1073,11 +1073,11 @@
             "id": 51117837,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-05T00:14:58Z",
+            "last_commit": "2026-09-09T03:15:30Z",
             "open_issues": 1274,
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77656,
+            "stars": 77658,
             "topics": []
           },
           "first_seen": "2026-08-28T06:57:01.923Z"
@@ -1094,11 +1094,11 @@
             "id": 51117837,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-05T00:14:58Z",
+            "last_commit": "2026-09-09T03:15:30Z",
             "open_issues": 1274,
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77656,
+            "stars": 77658,
             "topics": []
           },
           "first_seen": "2026-08-28T06:57:01.923Z"
@@ -1140,7 +1140,7 @@
             "open_issues": 7,
             "owner": "Yuliang-Liu",
             "repo": "Curve-Text-Detector",
-            "stars": 653,
+            "stars": 654,
             "topics": [
               "deep-learning",
               "document-analysis",
@@ -1248,7 +1248,7 @@
             "open_issues": 3,
             "owner": "Yuliang-Liu",
             "repo": "TIoU-metric",
-            "stars": 213,
+            "stars": 214,
             "topics": []
           },
           "first_seen": "2026-08-28T06:57:01.923Z"
@@ -1279,7 +1279,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T01:16:17.929Z",
+    "last_updated": "2026-09-10T01:07:28.957Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of resources for text detection/recognition (optical character recognition ) with deep learning methods.",
