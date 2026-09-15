@@ -743,7 +743,7 @@
             "open_issues": 29,
             "owner": "Canjie-Luo",
             "repo": "MORAN_v2",
-            "stars": 649,
+            "stars": 648,
             "topics": [
               "attention-mechanism",
               "image-deformation",
@@ -1077,7 +1077,7 @@
             "open_issues": 1274,
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77660,
+            "stars": 77659,
             "topics": []
           },
           "first_seen": "2026-08-28T06:57:01.923Z"
@@ -1098,7 +1098,7 @@
             "open_issues": 1274,
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77660,
+            "stars": 77659,
             "topics": []
           },
           "first_seen": "2026-08-28T06:57:01.923Z"
@@ -1279,7 +1279,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-14T01:10:32.912Z",
+    "last_updated": "2026-09-15T01:31:56.208Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of resources for text detection/recognition (optical character recognition ) with deep learning methods.",
