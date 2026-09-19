@@ -521,7 +521,7 @@
             "open_issues": 115,
             "owner": "clovaai",
             "repo": "CRAFT-pytorch",
-            "stars": 3400,
+            "stars": 3401,
             "topics": [
               "craft",
               "curved-text",
@@ -1074,10 +1074,10 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-09-16T18:51:07Z",
-            "open_issues": 1274,
+            "open_issues": 1271,
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77655,
+            "stars": 77654,
             "topics": []
           },
           "first_seen": "2026-08-28T06:57:01.923Z"
@@ -1095,10 +1095,10 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-09-16T18:51:07Z",
-            "open_issues": 1274,
+            "open_issues": 1271,
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77655,
+            "stars": 77654,
             "topics": []
           },
           "first_seen": "2026-08-28T06:57:01.923Z"
@@ -1279,7 +1279,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T01:19:11.407Z",
+    "last_updated": "2026-09-19T01:13:42.518Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of resources for text detection/recognition (optical character recognition ) with deep learning methods.",
@@ -1291,7 +1291,7 @@
       "open_issues": 10,
       "owner": "hwalsuklee",
       "repo": "awesome-deep-text-detection-recognition",
-      "stars": 2529,
+      "stars": 2530,
       "topics": [
         "awesome-list",
         "awesome-lists",
