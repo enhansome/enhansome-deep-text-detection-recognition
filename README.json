@@ -518,10 +518,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2024-07-16T04:32:12Z",
-            "open_issues": 115,
+            "open_issues": 116,
             "owner": "clovaai",
             "repo": "CRAFT-pytorch",
-            "stars": 3403,
+            "stars": 3404,
             "topics": [
               "craft",
               "curved-text",
@@ -1077,7 +1077,7 @@
             "open_issues": 1271,
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77652,
+            "stars": 77653,
             "topics": []
           },
           "first_seen": "2026-08-28T06:57:01.923Z"
@@ -1098,7 +1098,7 @@
             "open_issues": 1271,
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77652,
+            "stars": 77653,
             "topics": []
           },
           "first_seen": "2026-08-28T06:57:01.923Z"
@@ -1279,7 +1279,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-21T01:10:07.348Z",
+    "last_updated": "2026-09-22T01:37:35.295Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of resources for text detection/recognition (optical character recognition ) with deep learning methods.",
