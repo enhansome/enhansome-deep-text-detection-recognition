@@ -599,7 +599,7 @@
             "open_issues": 91,
             "owner": "bgshih",
             "repo": "crnn",
-            "stars": 2103,
+            "stars": 2101,
             "topics": [
               "computer-vision",
               "machine-learning",
@@ -696,7 +696,7 @@
             "open_issues": 82,
             "owner": "bgshih",
             "repo": "aster",
-            "stars": 743,
+            "stars": 742,
             "topics": [
               "computer-vision",
               "ocr",
@@ -1024,7 +1024,7 @@
             "open_issues": 82,
             "owner": "bgshih",
             "repo": "aster",
-            "stars": 743,
+            "stars": 742,
             "topics": [
               "computer-vision",
               "ocr",
@@ -1074,7 +1074,7 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-09-23T16:07:15Z",
-            "open_issues": 1272,
+            "open_issues": 1271,
             "owner": "tensorflow",
             "repo": "models",
             "stars": 77652,
@@ -1095,7 +1095,7 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-09-23T16:07:15Z",
-            "open_issues": 1272,
+            "open_issues": 1271,
             "owner": "tensorflow",
             "repo": "models",
             "stars": 77652,
@@ -1215,7 +1215,7 @@
             "open_issues": 5,
             "owner": "AyanKumarBhunia",
             "repo": "Handwriting_Recogition_using_Adversarial_Learning",
-            "stars": 63,
+            "stars": 62,
             "topics": [
               "adversarial-learning",
               "crnn-ctc",
@@ -1248,7 +1248,7 @@
             "open_issues": 3,
             "owner": "Yuliang-Liu",
             "repo": "TIoU-metric",
-            "stars": 214,
+            "stars": 215,
             "topics": []
           },
           "first_seen": "2026-08-28T06:57:01.923Z"
@@ -1279,7 +1279,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-24T01:27:32.862Z",
+    "last_updated": "2026-09-25T01:34:21.169Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of resources for text detection/recognition (optical character recognition ) with deep learning methods.",
