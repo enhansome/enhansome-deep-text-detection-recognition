@@ -401,7 +401,7 @@
             "open_issues": 16,
             "owner": "xhzdeng",
             "repo": "crpn",
-            "stars": 140,
+            "stars": 139,
             "topics": []
           },
           "first_seen": "2026-08-28T06:57:01.923Z"
@@ -521,7 +521,7 @@
             "open_issues": 116,
             "owner": "clovaai",
             "repo": "CRAFT-pytorch",
-            "stars": 3404,
+            "stars": 3406,
             "topics": [
               "craft",
               "curved-text",
@@ -1074,10 +1074,10 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-09-23T16:07:15Z",
-            "open_issues": 1271,
+            "open_issues": 1272,
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77652,
+            "stars": 77653,
             "topics": []
           },
           "first_seen": "2026-08-28T06:57:01.923Z"
@@ -1095,10 +1095,10 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-09-23T16:07:15Z",
-            "open_issues": 1271,
+            "open_issues": 1272,
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77652,
+            "stars": 77653,
             "topics": []
           },
           "first_seen": "2026-08-28T06:57:01.923Z"
@@ -1279,7 +1279,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-25T01:34:21.169Z",
+    "last_updated": "2026-09-26T01:38:15.127Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of resources for text detection/recognition (optical character recognition ) with deep learning methods.",
