@@ -175,7 +175,7 @@
             "open_issues": 264,
             "owner": "argman",
             "repo": "EAST",
-            "stars": 3057,
+            "stars": 3056,
             "topics": [
               "deep-learning",
               "ocr",
@@ -1077,7 +1077,7 @@
             "open_issues": 1272,
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77653,
+            "stars": 77652,
             "topics": []
           },
           "first_seen": "2026-08-28T06:57:01.923Z"
@@ -1098,7 +1098,7 @@
             "open_issues": 1272,
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77653,
+            "stars": 77652,
             "topics": []
           },
           "first_seen": "2026-08-28T06:57:01.923Z"
@@ -1279,7 +1279,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-27T01:31:16.861Z",
+    "last_updated": "2026-09-28T01:42:39.483Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of resources for text detection/recognition (optical character recognition ) with deep learning methods.",
