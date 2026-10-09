@@ -770,7 +770,7 @@
             "open_issues": 244,
             "owner": "clovaai",
             "repo": "deep-text-recognition-benchmark",
-            "stars": 3942,
+            "stars": 3941,
             "topics": [
               "crnn",
               "deep-learning",
@@ -1074,10 +1074,10 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-10-07T22:41:53Z",
-            "open_issues": 1272,
+            "open_issues": 1270,
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77655,
+            "stars": 77654,
             "topics": []
           },
           "first_seen": "2026-08-28T06:57:01.923Z"
@@ -1095,10 +1095,10 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-10-07T22:41:53Z",
-            "open_issues": 1272,
+            "open_issues": 1270,
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77655,
+            "stars": 77654,
             "topics": []
           },
           "first_seen": "2026-08-28T06:57:01.923Z"
@@ -1166,7 +1166,7 @@
             "open_issues": 53,
             "owner": "Bartzi",
             "repo": "see",
-            "stars": 578,
+            "stars": 577,
             "topics": [
               "chainer",
               "cnn",
@@ -1279,7 +1279,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T02:43:16.664Z",
+    "last_updated": "2026-10-09T02:57:29.116Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of resources for text detection/recognition (optical character recognition ) with deep learning methods.",
