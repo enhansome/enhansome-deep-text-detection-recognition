@@ -61,7 +61,7 @@
             "open_issues": 38,
             "owner": "ankush-me",
             "repo": "SynthText",
-            "stars": 2146,
+            "stars": 2145,
             "topics": []
           },
           "first_seen": "2026-08-28T06:57:01.923Z"
@@ -1073,11 +1073,11 @@
             "id": 51117837,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-07T22:41:53Z",
-            "open_issues": 1271,
+            "last_commit": "2026-10-13T04:11:20Z",
+            "open_issues": 1272,
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77646,
+            "stars": 77649,
             "topics": []
           },
           "first_seen": "2026-08-28T06:57:01.923Z"
@@ -1094,11 +1094,11 @@
             "id": 51117837,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-07T22:41:53Z",
-            "open_issues": 1271,
+            "last_commit": "2026-10-13T04:11:20Z",
+            "open_issues": 1272,
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77646,
+            "stars": 77649,
             "topics": []
           },
           "first_seen": "2026-08-28T06:57:01.923Z"
@@ -1279,7 +1279,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-13T03:35:51.896Z",
+    "last_updated": "2026-10-14T01:56:33.945Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of resources for text detection/recognition (optical character recognition ) with deep learning methods.",
