@@ -521,7 +521,7 @@
             "open_issues": 115,
             "owner": "clovaai",
             "repo": "CRAFT-pytorch",
-            "stars": 3406,
+            "stars": 3407,
             "topics": [
               "craft",
               "curved-text",
@@ -1279,7 +1279,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-16T01:25:34.027Z",
+    "last_updated": "2026-10-17T01:20:37.944Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of resources for text detection/recognition (optical character recognition ) with deep learning methods.",
