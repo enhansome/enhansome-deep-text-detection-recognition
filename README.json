@@ -599,7 +599,7 @@
             "open_issues": 91,
             "owner": "bgshih",
             "repo": "crnn",
-            "stars": 2103,
+            "stars": 2105,
             "topics": [
               "computer-vision",
               "machine-learning",
@@ -770,7 +770,7 @@
             "open_issues": 244,
             "owner": "clovaai",
             "repo": "deep-text-recognition-benchmark",
-            "stars": 3938,
+            "stars": 3936,
             "topics": [
               "crnn",
               "deep-learning",
@@ -1073,7 +1073,7 @@
             "id": 51117837,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-20T17:11:38Z",
+            "last_commit": "2026-10-21T16:25:32Z",
             "open_issues": 1274,
             "owner": "tensorflow",
             "repo": "models",
@@ -1094,7 +1094,7 @@
             "id": 51117837,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-20T17:11:38Z",
+            "last_commit": "2026-10-21T16:25:32Z",
             "open_issues": 1274,
             "owner": "tensorflow",
             "repo": "models",
@@ -1279,7 +1279,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-21T01:38:47.599Z",
+    "last_updated": "2026-10-22T01:33:45.345Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of resources for text detection/recognition (optical character recognition ) with deep learning methods.",
