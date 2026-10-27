@@ -201,7 +201,7 @@
             "open_issues": 25,
             "owner": "DetectionTeamUCAS",
             "repo": "R2CNN_Faster-RCNN_Tensorflow",
-            "stars": 582,
+            "stars": 583,
             "topics": [
               "dota",
               "face",
@@ -1073,11 +1073,11 @@
             "id": 51117837,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-23T03:36:49Z",
+            "last_commit": "2026-10-26T17:40:40Z",
             "open_issues": 1274,
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77650,
+            "stars": 77647,
             "topics": []
           },
           "first_seen": "2026-08-28T06:57:01.923Z"
@@ -1094,11 +1094,11 @@
             "id": 51117837,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-23T03:36:49Z",
+            "last_commit": "2026-10-26T17:40:40Z",
             "open_issues": 1274,
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77650,
+            "stars": 77647,
             "topics": []
           },
           "first_seen": "2026-08-28T06:57:01.923Z"
@@ -1279,7 +1279,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-26T01:15:13.922Z",
+    "last_updated": "2026-10-27T02:07:26.456Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of resources for text detection/recognition (optical character recognition ) with deep learning methods.",
