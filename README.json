@@ -277,7 +277,7 @@
             "open_issues": 80,
             "owner": "jiangxiluning",
             "repo": "FOTS.PyTorch",
-            "stars": 642,
+            "stars": 641,
             "topics": [
               "cvpr2018",
               "ocr",
@@ -302,7 +302,7 @@
             "open_issues": 56,
             "owner": "MhLiao",
             "repo": "TextBoxes_plusplus",
-            "stars": 955,
+            "stars": 954,
             "topics": [
               "ocr",
               "scene-text",
@@ -743,7 +743,7 @@
             "open_issues": 29,
             "owner": "Canjie-Luo",
             "repo": "MORAN_v2",
-            "stars": 648,
+            "stars": 647,
             "topics": [
               "attention-mechanism",
               "image-deformation",
@@ -770,7 +770,7 @@
             "open_issues": 244,
             "owner": "clovaai",
             "repo": "deep-text-recognition-benchmark",
-            "stars": 3937,
+            "stars": 3936,
             "topics": [
               "crnn",
               "deep-learning",
@@ -925,7 +925,7 @@
             "open_issues": 47,
             "owner": "MichalBusta",
             "repo": "DeepTextSpotter",
-            "stars": 282,
+            "stars": 281,
             "topics": []
           },
           "first_seen": "2026-08-28T06:57:01.923Z"
@@ -971,7 +971,7 @@
             "open_issues": 56,
             "owner": "MhLiao",
             "repo": "TextBoxes_plusplus",
-            "stars": 955,
+            "stars": 954,
             "topics": [
               "ocr",
               "scene-text",
@@ -1077,7 +1077,7 @@
             "open_issues": 1276,
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77636,
+            "stars": 77637,
             "topics": []
           },
           "first_seen": "2026-08-28T06:57:01.923Z"
@@ -1098,7 +1098,7 @@
             "open_issues": 1276,
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77636,
+            "stars": 77637,
             "topics": []
           },
           "first_seen": "2026-08-28T06:57:01.923Z"
@@ -1166,7 +1166,7 @@
             "open_issues": 53,
             "owner": "Bartzi",
             "repo": "see",
-            "stars": 578,
+            "stars": 577,
             "topics": [
               "chainer",
               "cnn",
@@ -1279,7 +1279,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-03T03:56:32.200Z",
+    "last_updated": "2026-11-04T03:01:47.256Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of resources for text detection/recognition (optical character recognition ) with deep learning methods.",
@@ -1291,7 +1291,7 @@
       "open_issues": 10,
       "owner": "hwalsuklee",
       "repo": "awesome-deep-text-detection-recognition",
-      "stars": 2533,
+      "stars": 2532,
       "topics": [
         "awesome-list",
         "awesome-lists",
