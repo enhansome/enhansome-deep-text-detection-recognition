@@ -770,7 +770,7 @@
             "open_issues": 244,
             "owner": "clovaai",
             "repo": "deep-text-recognition-benchmark",
-            "stars": 3936,
+            "stars": 3935,
             "topics": [
               "crnn",
               "deep-learning",
@@ -1077,7 +1077,7 @@
             "open_issues": 1276,
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77637,
+            "stars": 77634,
             "topics": []
           },
           "first_seen": "2026-08-28T06:57:01.923Z"
@@ -1098,7 +1098,7 @@
             "open_issues": 1276,
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77637,
+            "stars": 77634,
             "topics": []
           },
           "first_seen": "2026-08-28T06:57:01.923Z"
@@ -1140,7 +1140,7 @@
             "open_issues": 7,
             "owner": "Yuliang-Liu",
             "repo": "Curve-Text-Detector",
-            "stars": 652,
+            "stars": 651,
             "topics": [
               "deep-learning",
               "document-analysis",
@@ -1279,7 +1279,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-04T03:01:47.256Z",
+    "last_updated": "2026-11-05T03:30:49.611Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of resources for text detection/recognition (optical character recognition ) with deep learning methods.",
