@@ -106,7 +106,7 @@
             "open_issues": 45,
             "owner": "MhLiao",
             "repo": "TextBoxes",
-            "stars": 633,
+            "stars": 632,
             "topics": [
               "aaai",
               "detection",
@@ -175,7 +175,7 @@
             "open_issues": 264,
             "owner": "argman",
             "repo": "EAST",
-            "stars": 3058,
+            "stars": 3057,
             "topics": [
               "deep-learning",
               "ocr",
@@ -302,7 +302,7 @@
             "open_issues": 56,
             "owner": "MhLiao",
             "repo": "TextBoxes_plusplus",
-            "stars": 953,
+            "stars": 952,
             "topics": [
               "ocr",
               "scene-text",
@@ -422,7 +422,7 @@
             "open_issues": 101,
             "owner": "whai362",
             "repo": "PSENet",
-            "stars": 1184,
+            "stars": 1183,
             "topics": [
               "ctw1500",
               "icdar2015",
@@ -521,7 +521,7 @@
             "open_issues": 115,
             "owner": "clovaai",
             "repo": "CRAFT-pytorch",
-            "stars": 3410,
+            "stars": 3409,
             "topics": [
               "craft",
               "curved-text",
@@ -599,7 +599,7 @@
             "open_issues": 91,
             "owner": "bgshih",
             "repo": "crnn",
-            "stars": 2104,
+            "stars": 2103,
             "topics": [
               "computer-vision",
               "machine-learning",
@@ -971,7 +971,7 @@
             "open_issues": 56,
             "owner": "MhLiao",
             "repo": "TextBoxes_plusplus",
-            "stars": 953,
+            "stars": 952,
             "topics": [
               "ocr",
               "scene-text",
@@ -1074,10 +1074,10 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-11-02T23:22:42Z",
-            "open_issues": 1276,
+            "open_issues": 1274,
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77635,
+            "stars": 77634,
             "topics": []
           },
           "first_seen": "2026-08-28T06:57:01.923Z"
@@ -1095,10 +1095,10 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-11-02T23:22:42Z",
-            "open_issues": 1276,
+            "open_issues": 1274,
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77635,
+            "stars": 77634,
             "topics": []
           },
           "first_seen": "2026-08-28T06:57:01.923Z"
@@ -1269,7 +1269,7 @@
             "open_issues": 18,
             "owner": "cvlab-stonybrook",
             "repo": "DewarpNet",
-            "stars": 628,
+            "stars": 629,
             "topics": []
           },
           "first_seen": "2026-08-28T06:57:01.923Z"
@@ -1279,7 +1279,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-09T02:42:22.244Z",
+    "last_updated": "2026-11-10T04:38:55.400Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of resources for text detection/recognition (optical character recognition ) with deep learning methods.",
