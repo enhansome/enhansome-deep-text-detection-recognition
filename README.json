@@ -493,7 +493,7 @@
             "open_issues": 14,
             "owner": "MichaelHL-ai",
             "repo": "tensorflow_PSENet",
-            "stars": 484,
+            "stars": 485,
             "topics": [
               "cpp",
               "ocr",
@@ -521,7 +521,7 @@
             "open_issues": 115,
             "owner": "clovaai",
             "repo": "CRAFT-pytorch",
-            "stars": 3409,
+            "stars": 3410,
             "topics": [
               "craft",
               "curved-text",
@@ -1077,7 +1077,7 @@
             "open_issues": 1274,
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77634,
+            "stars": 77636,
             "topics": []
           },
           "first_seen": "2026-08-28T06:57:01.923Z"
@@ -1098,7 +1098,7 @@
             "open_issues": 1274,
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77634,
+            "stars": 77636,
             "topics": []
           },
           "first_seen": "2026-08-28T06:57:01.923Z"
@@ -1140,7 +1140,7 @@
             "open_issues": 7,
             "owner": "Yuliang-Liu",
             "repo": "Curve-Text-Detector",
-            "stars": 651,
+            "stars": 652,
             "topics": [
               "deep-learning",
               "document-analysis",
@@ -1279,7 +1279,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T04:38:55.400Z",
+    "last_updated": "2026-11-11T02:50:08.664Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of resources for text detection/recognition (optical character recognition ) with deep learning methods.",
