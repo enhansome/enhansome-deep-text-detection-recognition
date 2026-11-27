@@ -401,7 +401,7 @@
             "open_issues": 16,
             "owner": "xhzdeng",
             "repo": "crpn",
-            "stars": 139,
+            "stars": 138,
             "topics": []
           },
           "first_seen": "2026-08-28T06:57:01.923Z"
@@ -1194,7 +1194,7 @@
             "open_issues": 17,
             "owner": "HCIILAB",
             "repo": "Scene-Text-Removal",
-            "stars": 131,
+            "stars": 132,
             "topics": []
           },
           "first_seen": "2026-08-28T06:57:01.923Z"
@@ -1279,7 +1279,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-26T05:07:41.415Z",
+    "last_updated": "2026-11-27T05:05:21.283Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of resources for text detection/recognition (optical character recognition ) with deep learning methods.",
