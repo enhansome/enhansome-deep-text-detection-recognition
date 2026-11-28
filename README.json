@@ -201,7 +201,7 @@
             "open_issues": 25,
             "owner": "DetectionTeamUCAS",
             "repo": "R2CNN_Faster-RCNN_Tensorflow",
-            "stars": 582,
+            "stars": 581,
             "topics": [
               "dota",
               "face",
@@ -422,7 +422,7 @@
             "open_issues": 101,
             "owner": "whai362",
             "repo": "PSENet",
-            "stars": 1183,
+            "stars": 1182,
             "topics": [
               "ctw1500",
               "icdar2015",
@@ -1077,7 +1077,7 @@
             "open_issues": 1271,
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77634,
+            "stars": 77636,
             "topics": []
           },
           "first_seen": "2026-08-28T06:57:01.923Z"
@@ -1098,7 +1098,7 @@
             "open_issues": 1271,
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77634,
+            "stars": 77636,
             "topics": []
           },
           "first_seen": "2026-08-28T06:57:01.923Z"
@@ -1279,7 +1279,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-27T05:05:21.283Z",
+    "last_updated": "2026-11-28T04:45:07.548Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of resources for text detection/recognition (optical character recognition ) with deep learning methods.",
@@ -1291,7 +1291,7 @@
       "open_issues": 10,
       "owner": "hwalsuklee",
       "repo": "awesome-deep-text-detection-recognition",
-      "stars": 2532,
+      "stars": 2531,
       "topics": [
         "awesome-list",
         "awesome-lists",
